@@ -1,0 +1,49 @@
+/* 
+Demo Style
+
+Button*/
+.slicknav_btn
+{
+	background: #4F5156;
+}
+/*Button Lines*/
+.slicknav_menu .slicknav_icon-bar
+{
+	background-color: #A8A9AC;
+	/*[empty]color:;*/
+}
+.slicknav_menu
+{
+	background: #555555;
+	padding: 0;
+	/*[empty]color:;*/
+}
+.slicknav_nav UL, .slicknav_nav LI
+{
+	border-top: 0px solid #333333;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	/*[empty]border-bottom:;*/
+}
+.slicknav_nav LI
+{
+	border-top: 1px solid #333333;
+
+}
+.slicknav_nav .slicknav_item:hover
+{
+	background: none;
+	color: #81A9FF;
+}
+.slicknav_nav A:hover
+{
+	background: none;
+	color: #81A9FF;
+}
+.slicknav_nav .slicknav_txtnode
+{
+	padding: 7px 15px;
+	margin: 0;
+	color: #6F8AC3;
+}
